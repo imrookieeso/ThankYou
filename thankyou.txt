@@ -1,0 +1,4 @@
+## Title: Thank you
+## APIVersion: 1
+
+thankyou.lua
